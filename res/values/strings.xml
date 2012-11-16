@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Upload Foto Facebook</string>
+    <string name="hello_world">Bem Vindo</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="title_activity_main">Home</string>
+    <string name="app_id">398382490232122</string>
+
+</resources>
